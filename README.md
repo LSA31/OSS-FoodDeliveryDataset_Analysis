@@ -1,8 +1,8 @@
 # Food Delivery Dataset Analysis
 이 프로젝트는 Kaggle에서 제공하는 'Food Delivery Dataset'을 분석하여 배달 시간을 예측하는 것입니다. 이 데이터 세트에는 주문 날짜, 주문 시간, 배달원 정보, 식당 위치, 배달 위치, 날씨 상황 등의 정보가 포함되어 있습니다.
 
-## 데이터 세트
-이 데이터 세트는 Kaggle에서 다운로드 받을 수 있습니다. 아래의 코드를 사용하여 데이터 세트를 다운로드 받을 수 있습니다.
+## 데이터셋
+이 데이터 세트는 Kaggle에서 API로 다운로드 받을 수 있습니다. 아래의 코드를 사용하여 데이터셋을 다운로드 받을 수 있습니다.
 
 https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset/data
 
